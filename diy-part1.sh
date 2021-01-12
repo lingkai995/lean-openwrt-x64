@@ -33,6 +33,8 @@ git clone https://github.com/esirplayground/luci-app-poweroff package/luci-app-p
 #自动关机插件
 git clone https://github.com/sirpdboy/luci-app-autopoweroff package/luci-app-autopoweroff
 
+git clone https://github.com/vernesong/OpenClash package/luci-app-openclash
+
 # argon主题
 pushd package/lean
 rm -rf luci-theme-argon
